@@ -44,19 +44,16 @@ The project includes a React frontend and a Flask backend with product routes an
 
 ```txt
 farm-market-app/
-
-backend/
-
-frontend/
-
-screenshots/
-
-app.py
-db.py
-init_db.py
-products.py
-
-.gitignore
+├── backend/
+├── frontend/
+├── screenshots/
+|
+├── app.py
+├── db.py
+├── init_db.py
+│-- products.py
+|
+├── .gitignore
 ```
 
 ---
